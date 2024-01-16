@@ -1,0 +1,31 @@
+.text-center {
+    text-align: center;
+    font-family: serif;
+
+}
+.bg-grey{
+    background-color: rgb(9, 9, 9);
+    border: 5px solid rgb(246, 243, 241);
+    border-radius:25px ;
+    margin: 15px 0;
+
+}
+.mx-auto{
+    margin: auto;
+
+}
+.w-m-20{
+    max-width: 25vw;
+}
+.flex{
+    display: flex;
+    display: flex;
+
+}
+.flex-col{
+    flex-direction: column;
+
+}
+.item-center{
+    align-items: center;
+}
